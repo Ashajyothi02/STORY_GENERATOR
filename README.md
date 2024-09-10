@@ -23,7 +23,7 @@ This project is designed to generate a random story every time the user runs the
 
 ## How to Run
 1. Clone this repository:
-   git clone https://github.com/your-username/random-story-generator.git
+   git clone https://github.com/Ashajyothi02/STORY_GENERATOR.git
 
 2. Navigate to the project directory:
    cd random-story-generator
